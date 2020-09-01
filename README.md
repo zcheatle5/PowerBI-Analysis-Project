@@ -53,7 +53,7 @@ Utilize PowerQuery, DAX, and powerful visualizations in PowerBI to analyze the A
   - Return Rate
   - Total Returns
   
-### Visualizations
+### Visualizations Dashboard
 1. Executive Summary: high level breakdown of order and sales data
   - Top product (orders): Water Bottle - 30oz
   - Top product (profit): Mountain Bike - 200 black, 46
