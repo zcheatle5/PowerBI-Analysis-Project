@@ -24,25 +24,25 @@ Utilize PowerQuery, DAX, and powerful visualizations in PowerBI to analyze the A
 
 ### DAX
 1. Create the following DAX measures for the Sales table:
-  - Order Calculations
-    - Order Target
-    - Quantity Sold
-    - % of All Orders
-    - ALL Orders
-    - Bulk Orders
-    - High Ticket Orders
-    - Weekend Orders
-    - Prev Month Orders
+    - Order Calculations
+        - Order Target
+        - Quantity Sold
+        - % of All Orders
+        - ALL Orders
+        - Bulk Orders
+        - High Ticket Orders
+        - Weekend Orders
+        - Prev Month Orders
   
-- Sales Calculations
-    - Revenue Target
-    - Total Cost
-    - Total Profit
-    - Total Revenue
-    - YTD Revenue
-    - 10 Day Rolling Revenue
-    - 90 Day Rolling Revenue
-    - Prev Month Revenue
+    - Sales Calculations
+        - Revenue Target
+        - Total Cost
+        - Total Profit
+        - Total Revenue
+        - YTD Revenue
+        - 10 Day Rolling Revenue
+        - 90 Day Rolling Revenue
+        - Prev Month Revenue
 
 2. Create the following DAX measures for the Returns table:
     - % of All Returns
