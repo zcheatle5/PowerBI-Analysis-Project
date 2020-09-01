@@ -9,7 +9,7 @@ Utilize PowerQuery, DAX, and powerful visualizations in PowerBI to analyze the A
 ## Methodology
 
 ### PowerQuery
-1. Import the following AdvenutreWorks data tables into PowerBI using PowerQuery:
+1. Import the following AdvenutreWorks csv tables into PowerBI using PowerQuery:
   - Calendar_Lookup
   - Customer_Lookup
   - Product_Category_Lookup
