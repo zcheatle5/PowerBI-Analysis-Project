@@ -22,7 +22,7 @@ Utilize PowerQuery, DAX, and powerful visualizations in PowerBI to analyze the A
 
 3. Create a Rolling Calendar table
 
-### DA
+### D
 1. Create the following DAX measures for the Sales table:
     - Order Calculations
         - Order Target
