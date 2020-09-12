@@ -1,4 +1,4 @@
-# PowerBI-Projec
+# PowerBI-Proje
 
 ## Project Proposal
 Utilize PowerQuery, DAX, and powerful visualizations in PowerBI to analyze the AdventureWorks Bike Rental Business and provide an executive summary for business owners.
