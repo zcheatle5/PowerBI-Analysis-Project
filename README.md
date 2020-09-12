@@ -60,7 +60,7 @@ Utilize PowerQuery, DAX, and powerful visualizations in PowerBI to analyze the A
     - Total orders by category:
       - Accessories 17,000
       - Bikes 11,000
-      - Clothing 7,0000
+      - Clothing 7,000
     
 2. Key Influencer of Customer Ordering Behavior
     - The liklihood of a customer ordering multiple items per order increases by 1.18x if they are from Canada and 1.08x if they are from the Northwestern region of USA. 
